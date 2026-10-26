@@ -4,7 +4,7 @@
 
 ## What is **python**?
 
-**Python** is an interpreted programming language which converts code into machine language line by line. 
+**Python** is a high level, general-purpose interpreted programming language.
 
 ---
 ## Why **python** is used?
